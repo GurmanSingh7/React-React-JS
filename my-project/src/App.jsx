@@ -3,14 +3,16 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
+import Mnop from './Mnop' // Imported Mnop from Mnop.Jsx from this file 
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div>
-      Good Afternoon! Garry's Dev Management Team
-    </div>
+      <h1>Good Morning!</h1>
+      <Mnop/>
+    </div> 
       /* {<section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
