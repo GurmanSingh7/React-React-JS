@@ -1,0 +1,4 @@
+React & React-JS
+Go live -> npm run dev
+class = 'abc' -> className = 'abc'
+html -> jsx
