@@ -115,7 +115,7 @@ HTML → CSS → JavaScript
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GurmanSingh7&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GurmanSingh7&theme=tokyonight" />
 
 </div>
 
