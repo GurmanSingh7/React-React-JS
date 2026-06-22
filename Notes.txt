@@ -4,4 +4,5 @@ Go live -> npm run dev
 class = 'abc' -> className = 'abc'
 html -> jsx
 
+
 JSX (JavaScript XML) -> Ot is a syntax extension that allows you to write HTML syntax inside JS file.
