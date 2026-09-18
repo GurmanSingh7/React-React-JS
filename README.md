@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚛️ React JS Mastery
+## ⚛️ React JS Mastery
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Welcome+to+React+JS+Mastery;Build+Modern+Web+Applications;Learn+Components+Hooks+State+Management;Create+Fast+Interactive+UIs" alt="Typing SVG" />
 
